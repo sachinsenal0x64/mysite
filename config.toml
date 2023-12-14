@@ -41,7 +41,7 @@ external_links_no_referrer = false # rel="noreferrer"
 smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
 
 # # Any Extra language you do not use, delete or comment out the extra language sections:
-languages = []
+
 
 [languages.fr]
 title = "Abridge"
@@ -73,6 +73,7 @@ taxonomies = [
 
 [extra]
 
+languages = []
 ###############################################################################
 ### Layout & Format
 ### position: top, bottom, both, false(hidden)
