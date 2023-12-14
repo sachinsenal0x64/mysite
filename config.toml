@@ -41,6 +41,11 @@ external_links_no_referrer = false # rel="noreferrer"
 smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
 
 # # Any Extra language you do not use, delete or comment out the extra language sections:
+
+
+[extra]
+
+
 [languages.fr]
 title = "Abridge"
 description = "Abridge est un thème Zola rapide et léger utilisant le html sémantique, le CSS abridge.css class-light et aucun JS obligatoire."
@@ -68,8 +73,6 @@ taxonomies = [
 #    {name = "categories", feed = true},
     {name = "tags", feed = true},
 ]
-
-[extra]
 ###############################################################################
 ### Layout & Format
 ### position: top, bottom, both, false(hidden)
