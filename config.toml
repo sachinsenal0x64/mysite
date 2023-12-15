@@ -25,7 +25,7 @@ taxonomies = [
 
 [search]                # Options specific to elasticlunr search.
 # index format can be: elasticlunr_json or elasticlunr_javascript
-index_format = "elasticlunr_json"
+index_format = "stork_json"
 include_title = true        # include title of page/section in index
 include_description = true # include description of page/section in index
 include_content = true      # include rendered content of page/section in index
