@@ -208,9 +208,9 @@ researchgate = "your-profile-id"
 # do NOT include a trailing slash on the online URL
 online_url = "https://401658.xyz"
 online_indexformat = "elasticlunr_javascript"# used to restore your preferred index format when offline = false
-offline = false # implies uglyurls=true and integrity=false, when true NPM/node will automatically set the path for the base_url, it will build the site, then set the base_url back to what it was.
+offline = true # implies uglyurls=true and integrity=false, when true NPM/node will automatically set the path for the base_url, it will build the site, then set the base_url back to what it was.
 
-uglyurls = true # if set to true then links are generated with the full path. eg https://abridge.netlify.app/index.html
+uglyurls = false # if set to true then links are generated with the full path. eg https://abridge.netlify.app/index.html
 integrity = true # increases site security, should normally be true. (setting to false is useful during js development)
 js_bundle = true # multiple javascript files combined into a single file (setting to false is useful during js development)
 
