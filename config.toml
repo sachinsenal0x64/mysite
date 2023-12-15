@@ -134,7 +134,7 @@ copyright_override = '© $CURRENT_YEAR $SITE_TITLE • Website content is licens
 ###############################################################################
 
 title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
-title_addition = "Daily Book" # a default value for title addition
+title_addition = "Daily Diary" # a default value for title addition
 author = "Sachin Senal" # Put Your Name here
 keywords = "Sachin Senal, Abridge.css, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" # used for the primary site index
 banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
@@ -220,7 +220,7 @@ js_prestyle = true # used to preload: FontAwesome, Katex, external Google Fonts
 js_switcher = true # The button that allows manually changing between light/dark mode.
 js_switcher_default = "dark" # default nojs switcher mode: dark, light (make sure to also set $switcherDefault in abridge.scss)
 
-search_library = 'elasticlunr'
+search_library = 'stork'
 stylesheets = ["abridge.css"]
 
 webmanifest = "manifest.min.json" # Required for PWAs
