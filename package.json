@@ -1,17 +1,16 @@
 {
-  "name": "abridge-bundle",
-  "version": "2.0.0",
-  "description": "Abridge - set PWA cache files list, bundle and minify js",
-  "author": "Jake G <106644+Jieiku@users.noreply.github.com>",
-  "license": "MIT",
-  "homepage": "https://github.com/Jieiku/abridge",
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Minimal Website",
+  "main": "index.js",
   "scripts": {
-    "abridge": "node -e \"if ( require('fs').existsSync('./themes/abridge/package_abridge.js')) {require('fs').copyFileSync('./themes/abridge/package_abridge.js', './package_abridge.js')}\" && node package_abridge.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "fast-toml": "^0.5.4",
-    "uglify-js": "^3.17.4",
-    "jsonminify": "^0.4.2",
-    "replace-in-file": "^7.0.1"
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@edgio/cli": "^7.7.0",
+    "@edgio/core": "^7.7.0",
+    "@edgio/prefetch": "^7.7.0"
   }
 }
