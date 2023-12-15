@@ -38,7 +38,7 @@ $syntax: true !default;//syntax highlighting for Code Blocks.
 $enable-icons: true !default; // false disables ALL icons
 $ic: true !default; // true for colorized icons, otherwise #888 is used.
 
-$icon-rss: true !default;
+
 $icon-mail: true !default;// e-mail
 $icon-mastodon: true !default;
 $icon-element: true !default;
@@ -50,6 +50,7 @@ $icon-facebook: true !default;
 $icon-linkedin: true !default;
 $icon-codeberg: true !default;
 $icon-gitlab: true !default;
+$icon-rss: true !default;
 $icon-github: true !default;
 $icon-github-sponsor: true !default;
 $icon-bitbucket: true !default;
