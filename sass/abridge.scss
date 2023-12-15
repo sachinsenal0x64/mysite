@@ -113,7 +113,7 @@
   //$h7d: #8db,// teal, escape character
   //$h8d: #6ae,// blue, declaration, tag, property
   //$h9d: #d6e,// purple, operators
-  //$had: 160%,// mark/highlight line
+  $had: 160%,// mark/highlight line
 
   /// Light Syntax Colors
   //$h0: #f7f7f7,// background color
@@ -126,7 +126,7 @@
   //$h7: #286,// teal, escape character
   //$h8: #059,// blue, declaration, tag, property
   //$h9: #a3c,// purple, operators
-  //$ha: 92%,// mark/highlight line
+  $ha: 92%,// mark/highlight line
 
   /// These lines find the spot at which to insert your appended fonts.
   //$findFont-Main: "Segoe UI",     // ← APPEND custom MAIN font(s) AFTER this
@@ -186,7 +186,7 @@
   //$button: true,//Form elements (button)
   //$form: true,//Form elements (non-button)
   //$top: true,//back to top button using CSS
-  $search: true,//search feature
+  //$search: true,//search feature
   //$blocks: true,//css classes for block formatting, eg: recent posts, table of contents, series navigation
   //$series: true,//series navigation list
   //$modifiers: true,//tiny modifier classes for sizing, spacing, etc.
