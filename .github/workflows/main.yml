@@ -1,28 +1,28 @@
-on: push
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with your primary branch name
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
+
     steps:
-      - name: 'checkout'
-        uses: actions/checkout@v4
-      - name: 'build'
-        uses: shalzz/zola-deploy-action@v0.17.2
-        env:
-          PAGES_BRANCH: gh-pages
-          BUILD_DIR: .
-          TOKEN: ${secrets.GITHUB_TOKEN }
-          # BUILD_ONLY: true
-  build_and_deploy:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - name: 'checkout'
-        uses: actions/checkout@v4
-      - name: 'build and deploy'
-        uses: shalzz/zola-deploy-action@v0.17.2
-        env:
-          PAGES_BRANCH: master
-          BUILD_DIR: .
-          TOKEN: ${{ secrets.PUBLIC_TOKEN }}
-          REPOSITORY: sachinsenal0x64/mysite.github.io
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Zola
+        uses: eneko89/zola-action@v0.3
+
+      - name: Build site with Zola
+        run: zola build  # Modify if your build command is different
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public  # Modify if your Zola output directory is different
+          publish_branch: gh-pages
+          cname: 401658.xyz  # Replace with your custom domain, if applicable
+          force_orphan: true
