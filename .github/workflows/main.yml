@@ -18,4 +18,4 @@ jobs:
           # Or if publishing to the same repo, use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          REPOSITORY: sachinsenal0x64/sachinsenal0x64.github.io
+          REPOSITORY: sachinsenal0x64/mysite.github.io
