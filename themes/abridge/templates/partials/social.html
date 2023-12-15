@@ -1,5 +1,6 @@
 {#- Social Footer Icons #}
       <nav><div>
+            
           {%- if config.extra.mail -%}
           {%- if config.extra.mail_encode | default(value=true) -%}
           {%- set base64_email = config.extra.mail -%}
@@ -57,9 +58,6 @@
           {%- if config.extra.github_sponsor -%}
           <a href="https://github.com/sponsors/{{ config.extra.github_sponsor }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg github-sponsor" title="GitHub Sponsor"></i></a>{% endif -%}
       </div></nav>
-
-
-
 
 
 {#- End of social partial -#}
