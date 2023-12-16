@@ -5,7 +5,7 @@ base_url = "https://401658.xyz"
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
 title = "Sachin's Diary"
-description = "My Dev Book."
+description = "My Daily Experiences."
 theme = "abridge"
 
 default_language = "en"
