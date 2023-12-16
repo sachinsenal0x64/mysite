@@ -4,7 +4,7 @@ base_url = "https://401658.xyz"
 # Also set index format = "elasticlunr_javascript", and in [extra] uglyurls = true, integrity = false
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
-title = "Sachin's Daily Diary"
+title = "Sachin's Diary"
 description = "My Dev Book."
 theme = "abridge"
 
