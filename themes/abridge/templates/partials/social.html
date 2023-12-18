@@ -1,6 +1,5 @@
 {#- Social Footer Icons #}
       <nav><div>
-            
           {%- if config.extra.mastodon -%}
           <a href="{{ config.extra.mastodon | safe }}" target="_blank" title="Mastodon" rel="me"><i type="Button" class="svg mastodon" title="Mastodon"></i></a>{% endif -%}
           {%- if config.extra.element -%}
@@ -29,10 +28,10 @@
           <a href="mailto:{{ config.extra.mail }}" target="_blank" title="Mail"><i type="Button" class="svg mail" title="Mail"></i></a>
           {%- endif -%}
           {% endif -%}
-          {%- if config.extra.reddit -%}
-          <a href="https://reddit.com/{{ config.extra.reddit }}/" target="_blank" title="Reddit"><i type="Button" class="svg reddit" title="Reddit"></i></a>{% endif -%}
           {%- if config.extra.github -%}
           <a href="https://github.com/{{ config.extra.github }}/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a>{% endif -%}
+          {%- if config.extra.reddit -%}
+          <a href="https://reddit.com/{{ config.extra.reddit }}/" target="_blank" title="Reddit"><i type="Button" class="svg reddit" title="Reddit"></i></a>{% endif -%}
           {%- if config.extra.bitbucket -%}
           <a href="https://bitbucket.org/{{ config.extra.bitbucket }}/" target="_blank" title="Bitbucket"><i type="Button" class="svg bitbucket" title="Bitbucket"></i></a>{% endif -%}
           {%- if config.extra.python -%}
