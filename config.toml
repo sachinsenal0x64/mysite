@@ -29,7 +29,7 @@ index_format = "elasticlunr_javascript"
 include_title = true        # include title of page/section in index
 include_description = true # include description of page/section in index
 include_content = true      # include rendered content of page/section in index
-# truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
+truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
 
 [markdown]
 highlight_code = true
