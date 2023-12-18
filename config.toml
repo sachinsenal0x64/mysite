@@ -4,7 +4,7 @@ base_url = "https://www.401658.xyz"
 # Also set index format = "elasticlunr_javascript", and in [extra] uglyurls = true, integrity = false
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
-title = "Sachin's Diary"
+title = "Sachin Senal"
 description = "My Daily Experiences."
 theme = "abridge"
 
@@ -134,8 +134,8 @@ copyright_override = '© $CURRENT_YEAR $SITE_TITLE • Website content is licens
 ### To always set the page title exactly eg "Abridge" then comment out title_addition or set to false (not recommend, bad for SEO)
 ###############################################################################
 
-# title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
-#title_addition = "Daily Diary" # a default value for title addition
+title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
+title_addition = "Daily Diary" # a default value for title addition
 author = "Sachin Senal" # Put Your Name here
 keywords = "Sachin Senal, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" # used for the primary site index
 banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
@@ -223,7 +223,7 @@ js_prestyle = true # used to preload: FontAwesome, Katex, external Google Fonts
 js_switcher = true # The button that allows manually changing between light/dark mode.
 js_switcher_default = "dark" # default nojs switcher mode: dark, light (make sure to also set $switcherDefault in abridge.scss)
 
-search_library = 'tinysearch'
+search_library = 'stork'
 stylesheets = ["abridge.css"]
 
 webmanifest = "manifest.min.json" # Required for PWAs
