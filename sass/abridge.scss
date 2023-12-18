@@ -21,7 +21,6 @@
   $ic: true,// true for colorized icons, otherwise #888 is used.
 
 
-  $icon-mail: false,// e-mail
   $icon-mastodon: false,
   $icon-element: false,
   $icon-matrix: false,
@@ -33,6 +32,7 @@
   $icon-codeberg: false,
   $icon-gitlab: false,
   $icon-rss: true,
+  $icon-mail: true,// e-mail
   $icon-github: true,
   $icon-github-sponsor: false,
   $icon-bitbucket: false,
