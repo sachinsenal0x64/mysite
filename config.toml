@@ -162,6 +162,7 @@ facebook = "your-user-name"
 linkedin = "your-user-name"
 gitlab = "your-user-name"
 feed = true # this adds the RSS feed icon in the footer
+reddit="u/HomeworkAccording189"
 mail = "sachinsenal0x64@gmail.com"
 github = "sachinsenal0x64"
 codeberg = "your-user-name" # Everything after https://codeberg.org/   eg: username  *or*  username/repository
