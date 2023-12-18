@@ -29,6 +29,8 @@
           <a href="mailto:{{ config.extra.mail }}" target="_blank" title="Mail"><i type="Button" class="svg mail" title="Mail"></i></a>
           {%- endif -%}
           {% endif -%}
+          {%- if config.extra.reddit -%}
+          <a href="https://reddit.com/{{ config.extra.reddit }}/" target="_blank" title="Reddit"><i type="Button" class="svg reddit" title="Reddit"></i></a>{% endif -%}
           {%- if config.extra.github -%}
           <a href="https://github.com/{{ config.extra.github }}/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a>{% endif -%}
           {%- if config.extra.bitbucket -%}
