@@ -1323,7 +1323,6 @@ $syntax: true !default;//syntax highlighting for code blocks
   @if $icon-docker {.docker { background-image: functions.icon(docker, "%2329e", 2, "none", $ic) }}
   @if $icon-element {.element { background-image: functions.icon(element, "none", 1, "%231c8", $ic) }}
   @if $icon-facebook {.facebook { background-image: functions.icon(facebook, "%23359", 2, "none", $ic) }}
-  @if $icon-reddit {.reddit { background-image: functions.icon(reddit, "%23359", 2, "none", $ic) }}
   @if $icon-folder {.folder { background-image: functions.icon(folder, "%23888", 2, "none", $ic) }}
   @if $icon-github {.github { background-image: functions.icon(github, "%23888", 2, "none", $ic) }}
   @if $icon-github-sponsor {.github-sponsor { background-image: functions.icon(github-sponsor, "%23c49", 2, "none", $ic) }}
