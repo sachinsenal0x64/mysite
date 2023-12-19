@@ -135,7 +135,7 @@ copyright_override = '© $CURRENT_YEAR $SITE_TITLE • Website content is licens
 ###############################################################################
 
 title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
-title_addition = "" # a default value for title addition
+title_addition = false # a default value for title addition
 author = "Sachin Senal" # Put Your Name here
 keywords = "Sachin Senal, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" # used for the primary site index
 banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
