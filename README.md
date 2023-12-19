@@ -1,2 +1,2 @@
 # mysite
-Minimal Website
+🦀 Minimal Website
