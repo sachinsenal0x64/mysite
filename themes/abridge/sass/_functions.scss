@@ -1,6 +1,7 @@
 @use "sass:meta";
 @use "sass:list";
 
+
 @function remove($list, $value, $recursive:false) {
   $result: ();
   @for $i from 1 through length($list) {
