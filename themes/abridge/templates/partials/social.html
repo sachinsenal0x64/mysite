@@ -18,7 +18,6 @@
           <a href="https://codeberg.org/{{ config.extra.codeberg }}/" target="_blank" title="Codeberg"><i type="Button" class="svg codeberg" title="Codeberg"></i></a>{% endif -%}
           {%- if config.extra.gitlab -%}
           <a href="https://gitlab.com/{{ config.extra.gitlab }}/" target="_blank" title="Gitlab"><i type="Button" class="svg gitlab" title="Gitlab"></i></a>{% endif -%}
-          <a title="Actions" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/vim_on_fire.50moes0behds.gif"></a>
           {%- if config.generate_feed and config.extra.feed -%}
           <a type="{% if config.feed_filename is containing('atom') %}application/atom+xml{% else %}application/rss+xml{% endif %}" href="{{ get_url(path=config.feed_filename, trailing_slash=false, lang=lang) | safe }}" target="_blank" title="{{ config.title }} Atom/RSS Feed"><i type="Button" class="svg rss" title="{{ config.title }} Atom/RSS Feed"></i></a>{% endif -%}
           {%- if config.extra.mail -%}
