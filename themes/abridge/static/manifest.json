@@ -1,12 +1,12 @@
 {
-    "name": "Abridge Zola Theme",
-    "short_name": "Abridge",
-    "description": "Fast and Lightweight Zola Theme",
+    "name": "Sachin Senal's Dev Book",
+    "short_name": "Sachin Senal",
+    "description": "My Daily Experiences.",
     "background_color": "#111111",
     "theme_color": "#333333",
     "display": "standalone",
     "orientation": "any",
-    "start_url": "/",
+    "start_url": "401658.xyz/",
     "scope": "/",
     "categories": ["developer", "development", "productivity"],
     "icons": [
