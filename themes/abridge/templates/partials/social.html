@@ -30,6 +30,8 @@
           {% endif -%}
           {%- if config.extra.github -%}
           <a href="https://github.com/{{ config.extra.github }}/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a>{% endif -%}
+          {%- if config.extra.github_sponsor -%}
+          <a href="https://github.com/sponsors/{{ config.extra.github_sponsor }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg github-sponsor" title="GitHub Sponsor"></i></a>{% endif -%}
           {%- if config.extra.reddit -%}
           <a href="https://reddit.com/{{ config.extra.reddit }}/" target="_blank" title="Reddit"><i type="Button" class="svg reddit" title="Reddit"></i></a>{% endif -%}
           {%- if config.extra.bitbucket -%}
@@ -56,8 +58,7 @@
           <a href="https://www.ko-fi.com/{{ config.extra.kofi }}/" target="_blank" title="Support me on Ko-fi"><i type="Button" class="svg kofi" title="Support me on Ko-fi"></i></a>{% endif -%}
           {%- if config.extra.buymeacoffee -%}
           <a href="https://www.buymeacoffee.com/{{ config.extra.buymeacoffee }}/" target="_blank" title="Buy Me A Coffee"><i type="Button" class="svg buymeacoffee" title="Buy Me A Coffee"></i></a>{% endif -%}
-          {%- if config.extra.github_sponsor -%}
-          <a href="https://github.com/sponsors/{{ config.extra.github_sponsor }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg github-sponsor" title="GitHub Sponsor"></i></a>{% endif -%}
+        
       </div></nav>
 
 
