@@ -6,7 +6,7 @@
     "theme_color": "#333333",
     "display": "standalone",
     "orientation": "any",
-    "start_url": "/",
+    "start_url": "https://www.401658.xyz/",
     "scope": "/",
     "categories": ["developer", "development", "productivity"],
     "icons": [
