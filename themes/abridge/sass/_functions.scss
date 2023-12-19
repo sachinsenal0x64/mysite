@@ -1,6 +1,6 @@
 @use "sass:meta";
 @use "sass:list";
-@import 'node_modules/@tabler/icons-webfont/tabler-icons.scss';
+
 
 @function remove($list, $value, $recursive:false) {
   $result: ();
