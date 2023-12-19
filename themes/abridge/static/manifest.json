@@ -6,7 +6,7 @@
     "theme_color": "#333333",
     "display": "standalone",
     "orientation": "any",
-    "start_url": "401658.xyz/",
+    "start_url": "/index",
     "scope": "/",
     "categories": ["developer", "development", "productivity"],
     "icons": [
