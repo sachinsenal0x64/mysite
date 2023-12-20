@@ -19,7 +19,7 @@ taxonomies = [
 ]
 
 feed_filename = "atom.xml"
-#output_dir = "public"
+output_dir = "public"
 #ignored_content = ["*.{graphml,xlsx}", "temp.*"]
 #hard_link_static = false # set to true to hard link instead of copying, useful for very large files.
 
