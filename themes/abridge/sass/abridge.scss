@@ -175,7 +175,7 @@ $enable-semantic-container: true !default;
 $enable-responsive-typography: true !default;
 
 /// Enable responsive spacings for <header>, <main>, <footer>, <section>
-$enable-responsive-spacings: true !default;
+$enable-responsive-spacings: false !default;
 
 /// Enable a centered viewport for <header>, <main>, <footer> inside <body>
 /// This option will only work if $enable-maxwidth: false
