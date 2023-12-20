@@ -45,7 +45,6 @@ $icon-element: true !default;
 $icon-matrix: false !default;
 $icon-buymeacoffee: true !default;
 $icon-kofi: true !default;
-$icon-music: true !default;
 $icon-twitter: true !default;
 $icon-facebook: true !default;
 $icon-reddit: true !default;
@@ -1314,7 +1313,6 @@ $syntax: true !default;//syntax highlighting for code blocks
     .copy.err { -webkit-mask: functions.icon(copy-err, "%23000", 2, "none", $ic) ; background: var(--cr) }
   }
   @if $icon-search {.search { -webkit-mask: functions.icon(search, "%23000", 3, "none", $ic) ; background: var(--f2) }} //search
-  @if $icon-music {.music { -webkit-mask: functions.icon(music, "none", 1, "%23000", $ic) ; background: var(--f2) }} //music
   @if $icon-bitbucket {.bitbucket { background-image: functions.icon(bitbucket, "%2328f", 2, "none", $ic) }}
   @if $icon-buymeacoffee {.buymeacoffee { background-image: functions.icon(buymeacoffee, "%23777", 1, "%23fd0", $ic) }}
   @if $icon-check {.check { background-image: functions.icon(check, "%23888", 2, "none", $ic) }}
