@@ -168,16 +168,16 @@ mail = "sachinsenal0x64@gmail.com"
 github = "sachinsenal0x64"
 codeberg = "your-user-name" # Everything after https://codeberg.org/   eg: username  *or*  username/repository
 github_sponsor = "sachinsenal0x64"
-bitbucket = "your-user-name"
-python = "your-user-name"
-docker = "your-user-name"
-stack = "your-user-name"
-instagram = "your-user-name"
-#pixelfed = "@your-user-name" # Heaviest icon, off by default
-pinterest = "your-user-name"
-twitch = "your-user-name"
-youtube = "channel/your-channel-id"
-researchgate = "your-profile-id"
+# bitbucket = "your-user-name"
+# python = "your-user-name"
+# docker = "your-user-name"
+# stack = "your-user-name"
+# instagram = "your-user-name"
+# pixelfed = "@your-user-name" # Heaviest icon, off by default
+# pinterest = "your-user-name"
+# twitch = "your-user-name"
+# youtube = "channel/your-channel-id"
+# researchgate = "your-profile-id"
 
 
 
