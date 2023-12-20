@@ -153,14 +153,14 @@ seo = true  # enable or disable seo-related meta tags: opengraph, facebook, twit
 ###############################################################################
 
 
-mastodon = "@your-user-name"
-element = "matrix.example.com"
-buymeacoffee = "your-user-name"
-kofi = "your-user-name"
-discord = "your-discord" # Everything after https://discord.com/   eg: invite/my-server  *or*  servers/my-server-id
-twitter = "your-user-name"
-facebook = "your-user-name"
-linkedin = "your-user-name"
+#mastodon = "@your-user-name"
+#element = "matrix.example.com"
+#buymeacoffee = "your-user-name"
+#kofi = "your-user-name"
+#discord = "your-discord" # Everything after https://discord.com/   eg: invite/my-server  *or*  servers/my-server-id
+#twitter = "your-user-name"
+#facebook = "your-user-name"
+#linkedin = "your-user-name"
 gitlab = "your-user-name"
 feed = true # this adds the RSS feed icon in the footer
 reddit="u/HomeworkAccording189"
