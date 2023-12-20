@@ -87,6 +87,7 @@ menu = [
 #    {url = "categories", name = "Categories", slash = true, blank = false, size="s110"},
     {url = "tags", name = "Tags", slash = true, blank = false, size="s110"},
     {url = "https://status.401658.xyz", name = "Status", slash = true, blank = true, size="s110"},
+    {url = "https://status.401658.xyz", name = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-music-note" viewBox="0 0 16 16"><path d="M4 7.5a1.5 1.5 0 0 1 2.307-1.23l4.096 2.333a.5 .5 0 0 1 0 .874l-4.096 2.333A1.5 1.5 0 0 1 4 8.5V7.5z"/><path d="M4 3a.5 .5 0 0 0 -.832 -.374L1 4.5v7a1.5 1.5 0 0 0 2.307 1.23l4.096-2.333a.5 .5 0 0 1 0 -.874L3.307 5.27A1.5 1.5 0 0 1 4 4.5v-2.5z"/></svg>', slash = true, blank = true, size="s110"},
 ]
 menu_footer = [
     {url = "about", name = "About", slash = true, blank = false},
