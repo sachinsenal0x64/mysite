@@ -71,7 +71,7 @@ smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` 
 #     {name = "tags", feed = true},
 # ]
 
-# [extra]
+[extra]
 
 ###############################################################################
 ### Layout & Format
