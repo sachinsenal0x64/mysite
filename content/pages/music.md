@@ -5,7 +5,7 @@ template = "pages.html"
 draft = false
 +++
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+{{ gif(sources=["music-pepe.gif"]) }}
 
 
 <p>Music i'm currently listening to.</p>
