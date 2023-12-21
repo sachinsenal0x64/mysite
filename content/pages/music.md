@@ -29,11 +29,6 @@ draft = false
     
    <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true"  frameborder="0" style="width:32%;height:90px"></iframe>
    <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width:33%;height:90px"></iframe>
-    
-   </span>
-   <span style="float:left;">
    <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 33%; height: 90px"></iframe>
-    
-   </span>
  </p>
 </div>
