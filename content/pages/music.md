@@ -5,7 +5,7 @@ template = "pages.html"
 draft = false
 +++
 
-{% set data = load_data(url="https://sachinsenal0x64.github.io/picx-images-hosting/pepe-listening-to-music.283fpx8jor0g.gif") %}
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 <p>Music i'm currently listening to.</p>
