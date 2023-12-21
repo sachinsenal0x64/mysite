@@ -5,8 +5,7 @@ template = "pages.html"
 draft = false
 +++
 
-{{ gif(sources="https://sachinsenal0x64.github.io/picx-images-hosting/pepe-listening-to-music.283fpx8jor0g.gif") }}
-
+{% set data = load_data(url="https://sachinsenal0x64.github.io/picx-images-hosting/pepe-listening-to-music.283fpx8jor0g.gif") %}
 
 
 <p>Music i'm currently listening to.</p>
