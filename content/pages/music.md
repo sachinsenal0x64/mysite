@@ -21,9 +21,11 @@ draft = false
 <br>
 
 <div align="left">
- 
-<iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" style="width:40%;height:90px"></iframe> 
-<iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" style="width:40%;height:90px"></iframe>
-
+ <p style="text-align:left;">
+    <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" style="width:40%;height:90px"></iframe> 
+   <span style="float:right;">
+    <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" style="width:40%;height:90px"></iframe>
+   </span>
+ </p>
 
 </div>
