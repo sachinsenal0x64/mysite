@@ -6,7 +6,7 @@ draft = false
 +++
 
 <p align="center">
-  <img src="./music-pepe.gif" alt="pepe-music" width="250" height="250" />
+  <img src="./music-pepe.gif" alt="pepe-music" aspect-ratio="250/250" />
 </p>
 
 
