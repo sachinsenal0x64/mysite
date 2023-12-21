@@ -30,15 +30,13 @@ draft = false
 </div>
 
 <div style="text-align: left;">
-
-  <span style="display: inline-block; width: 50%; box-sizing: border-box;">
+  <p>
     <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
     <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
-  </span><br>
 
-  <span style="display: inline-block; width: 50%; box-sizing: border-box;">
-    <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
-    <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
-  </span><br>
-
+   <span style="text-align: right;">
+     <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
+     <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
+   </span><br>
+</p>
 </div>
