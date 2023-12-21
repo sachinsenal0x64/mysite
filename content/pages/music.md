@@ -22,6 +22,6 @@ draft = false
 
 <div align="left">
  
-<iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:50%;height:96px"></iframe>
+<iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:40%;height:96px"></iframe>
 
 </div>
