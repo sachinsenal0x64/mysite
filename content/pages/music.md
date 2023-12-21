@@ -22,11 +22,11 @@ draft = false
 
 <div align="left">
  <p style="text-align:left;">
-    <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px">
+    <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:32%;height:90px">
     </iframe> 
    <span style="float:center;">
-    <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px"></iframe>
-     <iframe src="https://tidal.com/browse/track/294404534?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px"></iframe>
+    <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:32%;height:90px"></iframe>
+     <iframe src="https://embed.tidal.com/browse/track/294404534?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px"></iframe>
    </span>
  </p>
 </div>
