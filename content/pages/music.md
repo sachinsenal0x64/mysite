@@ -23,7 +23,7 @@ draft = false
 <div align="left">
  <p style="text-align:left;">
     <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" style="width:40%;height:90px"></iframe> 
-   <span style="float:right;">
+   <span style="float:center;">
     <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" style="width:40%;height:90px"></iframe>
    </span>
  </p>
