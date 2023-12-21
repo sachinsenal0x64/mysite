@@ -20,7 +20,7 @@ draft = false
 
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe><br>
   <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe><br>
   <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe><br>
