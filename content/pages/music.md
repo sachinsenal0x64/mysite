@@ -16,7 +16,7 @@ draft = false
 
 <br>
 
-### I'm currently listening to.
+### I'm currently listening.
 
 <br>
 
