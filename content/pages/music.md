@@ -24,7 +24,7 @@ draft = false
  <p style="text-align:left;">
     <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px">
     </iframe> 
-    <iframe src="https://embed.tidal.com/tracks/138790325" style="top: 0; left: 0; width: 33%; height: 90%; position: absolute; border: 0;" allowfullscreen>       </iframe>
+    <iframe src="https://embed.tidal.com/tracks/138790325" style="width: 33%; height: 90%; position: absolute; border: 0;" allowfullscreen></iframe>
    <span style="float:center;">
     <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:32%;height:90px"></iframe>
      <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:33%;height:90px"></iframe>
