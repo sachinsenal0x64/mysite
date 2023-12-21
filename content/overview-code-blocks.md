@@ -67,6 +67,17 @@ fn main() {
 }
 ```
 
+### Elixir
+
+```ex
+import IO, only: [puts: 1]
+
+puts("Hello, World!")
+
+```
+
+
+
 ### Bash
 ```bash
 #!/bin/bash
