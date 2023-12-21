@@ -1329,6 +1329,7 @@ $syntax: true !default;//syntax highlighting for code blocks
   @if $icon-folder {.folder { background-image: functions.icon(folder, "%23888", 2, "none", $ic) }}
   @if $icon-github {.github { background-image: functions.icon(github, "%23888", 2, "none", $ic) }}
   @if $icon-github-sponsor {.github-sponsor { background-image: functions.icon(github-sponsor, "%23c49", 2, "none", $ic) }}
+  @if $icon-status {.status { background-image: functions.icon(status, "%2342f578", 2, "none", $ic) }}
   @if $icon-gitlab {.gitlab { background-image: functions.icon(gitlab, "%23e62", 2, "none", $ic) }}
   @if $icon-globe {.globe { background-image: functions.icon(globe, "%23888", 2, "none", $ic) }}
   @if $icon-home {.home { background-image: functions.icon(home, "%23888", 2, "none", $ic) }}
