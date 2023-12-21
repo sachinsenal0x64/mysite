@@ -20,9 +20,9 @@ draft = false
 
 <br>
 
-<div align="left">
+<div>
  
-<iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" style="width:40%;height:90px"></iframe> <br> <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" style="width:40%;height:90px"></iframe>
+<iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" style="width:40%;height:90px"></iframe> <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" style="width:40%;height:90px"></iframe>
 
 
 </div>
