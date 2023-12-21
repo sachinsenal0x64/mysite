@@ -39,9 +39,7 @@ draft = false
    </span>
 
    <span style="float:left;">
-     
-   <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
-   <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
+
       
    </span>
 
