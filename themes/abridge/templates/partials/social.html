@@ -29,12 +29,14 @@
           {%- endif -%}
           {% endif -%}
           {%- if config.extra.github -%}
-          <a href="https://github.com/{{ config.extra.github }}/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a>{% endif -%}
+           <a href="https://github.com/{{ config.extra.github }}/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a>{% endif -%}
           {%- if config.extra.reddit -%}
            <a href="https://reddit.com/{{ config.extra.reddit }}/" target="_blank" title="Reddit"><i type="Button" class="svg reddit" title="Reddit"></i></a>
           {% endif -%}
           {%- if config.extra.github_sponsor -%}
-          <a href="https://github.com/sponsors/{{ config.extra.github_sponsor }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg github-sponsor" title="GitHub Sponsor"></i></a>{% endif -%}
+           <a href="https://github.com/sponsors/{{ config.extra.github_sponsor }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg github-sponsor" title="GitHub Sponsor"></i></a>{% endif -%}
+          {%- if config.extra.status -%}
+           <a href="https://status.401658.xyz/{{ config.extra.status }}/" target="_blank" title="GitHub Sponsor"><i type="Button" class="svg status" title="Status"></i></a>{% endif -%}
           {%- if config.extra.bitbucket -%}
           <a href="https://bitbucket.org/{{ config.extra.bitbucket }}/" target="_blank" title="Bitbucket"><i type="Button" class="svg bitbucket" title="Bitbucket"></i></a>{% endif -%}
           {%- if config.extra.python -%}
