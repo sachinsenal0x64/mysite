@@ -21,15 +21,16 @@ draft = false
 <br>
 
 <div style="text-align: center;">
+ 
   <p style="text-align:left;">
    
-   <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 320px; height: 90px;"></iframe>
-   <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 320px; height: 90px;"></iframe>
+   <iframe src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
+   <iframe src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
 
   <span style="float:right;">
     
-   <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 320px; height: 90px;"></iframe>
-   <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 320px; height: 90px;"></iframe>
+   <iframe src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
+   <iframe src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;"></iframe>
      
   </span><br>
    
