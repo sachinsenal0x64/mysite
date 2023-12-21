@@ -16,7 +16,7 @@ draft = false
 
 <br>
 
-#### Music I'm currently listening to.
+#### Music i'm currently listening to.
 
 <br>
 
