@@ -24,4 +24,5 @@ Podcast's i'm currently listening to.
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
 - [X-Raid Podcast](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866)
 - [Gappiya Thinking ](https://www.youtube.com/@GappiyaThinking/videos)
+- [Tech Katha](https://podcasts.apple.com/nz/podcast/tech%E0%B6%9A%E0%B6%AD-techkatha/id1343095027)
 
