@@ -1,15 +1,14 @@
 +++
 title = "Ab Theme"
 description = "Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS."
-date = 2022-05-17
-updated = 2023-07-21
+date = 2023-12-21
 draft = false
 
 [taxonomies]
-tags = ["Features","Config","Test"]
+tags = ["Test"]
 [extra]
 toc = true
-series = "Features"
+series = "Test"
 +++
 
 A fast, lightweight, and modern [Zola](https://getzola.org) theme utilizing [abridge.css](https://github.com/Jieiku/abridge.css) (a class-light semantic HTML CSS Framework). Perfect [Lighthouse](https://pagespeed.web.dev/report?url=abridge.netlify.app), [YellowLabTools](https://yellowlab.tools/), and [Observatory](https://observatory.mozilla.org/analyze/abridge.netlify.app) scores. Here is a [Zola Themes Benchmarks](https://github.com/Jieiku/zola-themes-benchmarks/blob/main/README.md) Page.
