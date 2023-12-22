@@ -5,11 +5,11 @@ date = 2023-12-22
 draft = false
 
 [taxonomies]
-tags = ["Features","Markdown"]
+tags = ["dots"]
 [extra]
-keywords = "Markdown, Style, Syntax, Syntax Highlighting"
+keywords = "Dots"
 toc = true
-series = "Features"
+series = "Dots"
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows if basic HTML elements are decorated with CSS in a Zola theme.
