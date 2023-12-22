@@ -12,8 +12,8 @@ draft = false
 
 Music i'm currently listening to.
 
--[Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
--[Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
+- [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
+- [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
  
 <br>
 
