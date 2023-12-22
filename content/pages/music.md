@@ -39,13 +39,13 @@ draft = false
 <div class="container">
   
   <span class="left">
-    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg">
-    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg">
+    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg onload="this.style.opacity = 1">
+    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg onload="this.style.opacity = 1">
   </span>
 
   <span class="right">
-    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg">
-    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg">
+    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg onload="this.style.opacity = 1">
+    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg onload="this.style.opacity = 1">
   </span>
   
 </div>
