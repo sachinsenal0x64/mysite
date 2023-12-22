@@ -23,8 +23,9 @@ Podcast's i'm currently listening to.
 
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
 - [The Awake Space](https://podcasts.apple.com/us/podcast/the-awake-space-astrology-podcast/id1563083072)
-- [X-Raid Podcast](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866)
+- [The Nightlight](https://podcasts.apple.com/gb/podcast/the-nightlight-astrology-podcast/id1479942649)
 - [Gappiya Thinking ](https://www.youtube.com/@GappiyaThinking/videos)
+- [X-Raid Podcast](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866)
 - [Tech Katha](https://podcasts.apple.com/nz/podcast/tech%E0%B6%9A%E0%B6%AD-techkatha/id1343095027)
   
 
