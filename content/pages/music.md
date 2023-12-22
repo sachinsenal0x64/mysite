@@ -30,20 +30,21 @@ draft = false
       width: 100%;
       max-width: 300px;
       height: 90px;
-      opacity: 0;
     }
   </style>
 </head>
 <body>
 
 <div class="container">
+  
   <span class="left">
-    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
-    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
+    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
   </span>
 
   <span class="right">
-    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
-    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
+    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
   </span>
+  
 </div>
