@@ -2,7 +2,7 @@
 title = "Music & Podcasts"
 description = "Listening is make your feel better & more productive especially when it's come to music & podcasts."
 path = "music"
-template = "music.html"
+template = "pages.html"
 draft = false
 +++
 
