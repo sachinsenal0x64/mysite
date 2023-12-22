@@ -12,10 +12,8 @@ draft = false
 
 Music i'm currently listening to.
 
-  <a href="https://embed.tidal.com/tracks/294404536?layout=gridify" target="_blank">Rasaali</a><br>
-  <a href="https://embed.tidal.com/tracks/138790325?layout=gridify" target="_blank">Small Things</a>
-  -[Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
-  -[Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
+-[Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
+-[Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
  
 <br>
 
