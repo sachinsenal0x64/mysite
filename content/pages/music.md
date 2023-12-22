@@ -8,7 +8,6 @@ draft = false
 [extra]
 
 keywords = "Music,Podcast"
-toc = true
 series = "Listening"
 
 +++
