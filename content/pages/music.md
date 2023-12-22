@@ -6,7 +6,7 @@ draft = false
 +++
 
 <p align="center">
-  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" height="200px" width="200px" />
+  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" height="250px" width="250px" />
 </p>
 
 
@@ -26,7 +26,7 @@ draft = false
     .right {
       float: right;
     }
-    .embed {
+    .h4 {
       max-width: 300px;
       opacity: 0;
       }
@@ -37,12 +37,13 @@ draft = false
 
 <div class="container">
   <span class="left">
-    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="video/webm" width="100%" height="90"/h4>
-    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="video/webm" width="100%" height="90">
+    <h4><a href="https://embed.tidal.com/tracks/294404537?disableAnalytics=true">Avalum Naanum</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true">Idhu Naal</a></h4>
   </span>
 
   <span class="right">
-    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="video/webm" width="100%" height="90" >
-    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="video/webm" width="100%" height="90">
+    <h4><a href="https://embed.tidal.com/tracks/294404535?disableAnalytics=true">Rasaali</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/138790325?disableAnalytics=true">Small Things</a></h4>
   </span>
 </div>
+
