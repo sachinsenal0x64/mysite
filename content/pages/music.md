@@ -10,11 +10,13 @@ draft = false
 
 <br>
 
-Music i'm currently listening to.
+<title>Music i'm currently listening to.</title>
 
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
 - [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
- 
+- [Rasaali](https://embed.tidal.com/tracks/294404536?layout=gridify)
+- [Small Things](https://embed.tidal.com/tracks/138790325?layout=gridify)
+
 <br>
 
 Podcast's i'm currently listening to.
