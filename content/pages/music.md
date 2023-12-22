@@ -32,5 +32,5 @@ Podcast's i'm currently listening to.
  
 </p>
 
-[link](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866){:target="_blank"}
+- [link](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866){:target="_blank"}
 
