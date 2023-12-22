@@ -5,7 +5,7 @@ date = 2023-12-22
 draft = false
 
 [taxonomies]
-tags = ["dots"]
+tags = ["Dots"]
 [extra]
 keywords = "Dots"
 toc = true
