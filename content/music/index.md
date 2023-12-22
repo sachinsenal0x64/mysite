@@ -1,8 +1,6 @@
 +++
 title = "Music & Podcasts"
 description = "Listening is make your feel better & more productive especially when it's come to music & podcasts."
-path="index"
-template = "music.html"
 draft = false
 +++
 
