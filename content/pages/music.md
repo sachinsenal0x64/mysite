@@ -26,7 +26,7 @@ draft = false
     .right {
       float: right;
     }
-    embed {
+    .embed {
       max-width: 300px;
       opacity: 0;
       }
@@ -37,12 +37,12 @@ draft = false
 
 <div class="container">
   <span class="left">
-    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="video/webm" width="100%" height="90" onload="this.style.opacity = 1;">
-    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="video/webm" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="video/webm" width="100%" height="90"/h4>
+    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="video/webm" width="100%" height="90">
   </span>
 
   <span class="right">
-    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="video/webm" width="100%" height="90" onload="this.style.opacity = 1;">
-    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="video/webm" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="video/webm" width="100%" height="90" >
+    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="video/webm" width="100%" height="90">
   </span>
 </div>
