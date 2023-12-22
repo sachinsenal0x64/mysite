@@ -21,6 +21,8 @@ Music i'm currently listening to.
  
 </p>
 
+<br>
+
 Podcast's i'm currently listening to.
 
 <p>
