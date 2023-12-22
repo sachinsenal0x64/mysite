@@ -16,20 +16,12 @@ draft = false
 
 <br>
 
-<div style="text-align: left;">
-
-  <p style="text-align:left;">
-    
+<div style="text-align: center;">
+   
   <h4><a href="https://embed.tidal.com/tracks/294404537?layout=gridify" target="_blank">Avalum Naanum</a></h4>
   <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" target="_blank">Idhu Naal</a></h4>
-  
-  <span style="float:center;">
-         
   <h4><a href="https://embed.tidal.com/tracks/294404535?layout=gridify" target="_blank">Rasaali</a></h4>
   <h4><a href="https://embed.tidal.com/tracks/138790325?layout=gridify" target="_blank">Small Things</a></h4>
-  
-  </span>
-  
-  </p>
+
 </div>
 
