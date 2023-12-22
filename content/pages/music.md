@@ -5,8 +5,8 @@ template = "pages.html"
 draft = false
 +++
 
-<p align="center">
-  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" aspect-ratio=10/10 />
+<p class="banner">
+  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music"/>
 </p>
 
 
@@ -17,6 +17,9 @@ draft = false
 <br>
 <head>
   <style>
+    .banner {
+      aspect-ratio: 10/10;
+    }
     .container {
       text-align: center;
     }
@@ -28,7 +31,7 @@ draft = false
     }
     embed {
       width: 100%;
-      aspect-ratio: 300/90
+      aspect-ratio: 300/90;
     }
   </style>
 </head>
