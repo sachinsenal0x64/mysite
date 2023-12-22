@@ -23,7 +23,10 @@ draft = false
   <span style="float:left;">
 
    <iframe title="music" src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
+   
    <iframe  title="music" src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
+   
+   <embed type="video/webm" src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" width="40" height="90">
 
    </span>
 
@@ -32,12 +35,6 @@ draft = false
    <iframe title="music" src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
    <iframe title="music" src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
       
-   </span>
-
-   <span style="float:left;">
-
-      
-   </span>
 
  </p>
 </div>
