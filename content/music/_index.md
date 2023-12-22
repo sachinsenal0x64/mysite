@@ -1,7 +1,6 @@
 +++
-title = "Music"
+title = "Music & Podcasts"
 path = "music"
-template = "music.html"
 draft = false
 
 [taxonomies]
