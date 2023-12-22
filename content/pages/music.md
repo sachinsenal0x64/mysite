@@ -16,15 +16,15 @@ draft = false
 
 <br>
 
-<div text-align="center">
+<div style="text-align: center;">
   <span class="left">
-    <h4><a href="https://embed.tidal.com/tracks/294404537?disableAnalytics=true">Avalum Naanum</a></h4>
-    <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true">Idhu Naal</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" target="_blank">Avalum Naanum</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" target="_blank">Idhu Naal</a></h4>
   </span>
 
   <span class="right">
-    <h4><a href="https://embed.tidal.com/tracks/294404535?disableAnalytics=true">Rasaali</a></h4>
-    <h4><a href="https://embed.tidal.com/tracks/138790325?disableAnalytics=true">Small Things</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" target="_blank">Rasaali</a></h4>
+    <h4><a href="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" target="_blank">Small Things</a></h4>
   </span>
 </div>
 
