@@ -11,6 +11,7 @@ draft = false
 <br>
 
 Music i'm currently listening to.
+
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
 - [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
 - [Rasaali](https://embed.tidal.com/tracks/294404536?layout=gridify)
@@ -20,6 +21,7 @@ Music i'm currently listening to.
 <br>
 
 Podcast's i'm currently listening to.
+
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
 - [The Awake Space](https://podcasts.apple.com/us/podcast/the-awake-space-astrology-podcast/id1563083072)
 - [The Nightlight](https://podcasts.apple.com/gb/podcast/the-nightlight-astrology-podcast/id1479942649)
