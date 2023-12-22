@@ -2,11 +2,12 @@
 title = "Abrid Theme"
 description = "Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS."
 sort_by = "date"
-date = 2023-12-17
+date = 2023-12-21
 draft = false
 
 [taxonomies]
 tags = ["test"]
+
 [extra]
 toc = true
 series = "Test"
@@ -343,111 +344,3 @@ cargo build --release
 sudo cp ./target/release/tinysearch /usr/local/bin/tinysearch
 exit # reload shell environment
 ```
-
-Switch Abridge to tinysearch:
-```bash
-npm run tinysearch
-zola build
-tinysearch --optimize --path static public/data_tinysearch/index.html
-# zola serve
-```
-
-**Switch to stork:**
-
-First you have to install stork so that you can build the index:
-
-```bash
-git clone https://github.com/jameslittle230/stork
-cd stork
-cargo build --release
-sudo cp ./target/release/stork /usr/local/bin/stork
-exit # reload shell environment
-```
-
-Switch Abridge to stork:
-
-```bash
-npm run stork
-zola build
-stork build --input public/data_stork/index.html --output static/stork.st
-# zola serve
-```
-
-**Switch to elasticlunr:**
-
-```bash
-npm run elasticlunr
-```
-
-**Switch to nosearch:**
-
-```bash
-npm run nosearch
-```
-
-#### Theme-Switcher
-
-The theme switcher relies on javascript to work, it applies the .light class to the root documentElement. The file that handles this (`theme.js`) is tiny and optimized and it is the first file loaded in the head, so the performance hit is minimal. Without the Theme switcher you can still use The automatic Theme which uses the Browser/OS preference settings. You can even install a [Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/theme-switcher-for-firefox/) to quickly switch between the two.
-
-### Optimize PNG/ICO files
-
-Good tool to generate maskable icons for `manifest.json`: [maskable.app](https://maskable.app/editor)
-
-All png files can be optimized using [oxipng](https://github.com/shssoichiro/oxipng):
-
-```bash
-cd static
-oxipng -o max --strip all -a -Z *.png
-```
-
-With larger displays and greater pixel density becoming common it is probably a good idea to use atleast a littly bit of lossy compression. For example you can use pngquant with a 93% quality and you will often get images around 1/2 the size. Understand that pngquant is cumulative, so you should keep your original images somewhere, and only ever use pngquant once per image, if you use it again and again on the same image then you will lower the image quality each time. Always use oxipng afterwards, oxipng is lossless.
-
-```bash
-pngquant --skip-if-larger --strip --quality=93-93 --speed 1 *.png
-oxipng -o max --strip all -a -Z *.png
-```
-
-leanify can compress farther for both png and ico files:
-
-```bash
-git clone https://github.com/JayXon/Leanify
-cd Leanify
-make
-sudo cp leanify /usr/local/bin/leanify
-exit  #launch new terminal
-leanify -i 7777 *.png
-leanify -i 7777 *.ico
-```
-
-### Pre gzip/brotli content
-
-If you are serving your site with nginx, you can pre gzip your content.
-
-(Netlify brotli gzips your files automatically, no exta work required.)
-
-First configure nginx:
-
-```bash
-sudo nano /etc/nginx/nginx.conf
-
-gzip on;
-gzip_vary on;
-gzip_proxied expired no-cache no-store private auth;
-#gzip_proxied any;
-gzip_comp_level 9;
-gzip_buffers 64 16k;
-#gzip_buffers 16 8k;
-gzip_http_version 1.1;
-gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript image/svg+xml application/xhtml+xml application/x-javascript application/x-font-ttf application/vnd.ms-fontobject font/opentype font/ttf font/eot font/otf;
-#gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
-```
-
-Then you can gzip/brotli your files:
-
-```bash
-zola build
-find ~/.dev/abridge/public -type f -regextype posix-extended -regex '.*\.(htm|html|css|js|xml|xsl|txt|woff|woff2|svg|otf|eot|ttf)' -exec gzip --best -k -f {} \+ -exec brotli --best -f {} \;
-rsync -zvrh ~/.dev/abridge/public/ web:/var/www/abridge
-```
-
-Nginx does not come by default with brotli support, but adding it was not difficult.
