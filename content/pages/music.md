@@ -6,7 +6,7 @@ draft = false
 +++
 
 <p align="center">
-  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" aspect-ratio=200/200 />
+  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" aspect-ratio=100/100 />
 </p>
 
 
@@ -28,8 +28,7 @@ draft = false
     }
     embed {
       width: 100%;
-      max-width: 300px;
-      height: 90px;
+      aspect-ratio: 300/90
     }
   </style>
 </head>
@@ -38,13 +37,13 @@ draft = false
 <div class="container">
   
   <span class="left">
-    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
-    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
+    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg">
+    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg">
   </span>
 
   <span class="right">
-    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
-    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg" width="100%" height="90">
+    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg">
+    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg">
   </span>
   
 </div>
