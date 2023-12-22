@@ -12,25 +12,15 @@ draft = false
 
 Music i'm currently listening to.
 
-<p>
-
-  <a href="https://embed.tidal.com/tracks/294404537?layout=gridify" target="_blank">Avalum Naanum</a><br>
-  <a href="https://embed.tidal.com/tracks/294404535?layout=gridify" target="_blank">Idhu Naal</a><br> 
   <a href="https://embed.tidal.com/tracks/294404536?layout=gridify" target="_blank">Rasaali</a><br>
   <a href="https://embed.tidal.com/tracks/138790325?layout=gridify" target="_blank">Small Things</a>
+  -[Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
+  -[Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
  
-</p>
-
 <br>
 
 Podcast's i'm currently listening to.
 
-<p>
-  <a href="https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108" target="_blank">The Astrology Podcast</a><br>
-  <a href="https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866" target="_blank">X-Raid Podcast</a><br> 
-
- 
-</p>
-
-- [link](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866){:target="_blank"}
+- [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
+- [X-Raid Podcast](https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866)
 
