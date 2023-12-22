@@ -25,6 +25,7 @@ Podcast's i'm currently listening to.
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
 - [The Awake Space](https://podcasts.apple.com/us/podcast/the-awake-space-astrology-podcast/id1563083072)
 - [The Nightlight](https://podcasts.apple.com/gb/podcast/the-nightlight-astrology-podcast/id1479942649)
+- [Capricorn Rising Inc](https://podcasts.apple.com/gb/podcast/capricorn-rising-inc/id1702949000)
 - [History of Philosophy Without Any Gaps](https://podcasts.apple.com/us/podcast/history-of-philosophy-without-any-gaps/id396903391)
 - [Philosophize This!](https://podcasts.apple.com/us/podcast/philosophize-this/id659155419)
 - [Gappiya Thinking ](https://www.youtube.com/@GappiyaThinking/videos)
