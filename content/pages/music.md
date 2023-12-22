@@ -6,7 +6,7 @@ draft = false
 +++
 
 <p align="center">
-  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" aspect-ratio=100/100 />
+  <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" aspect-ratio=10/10 />
 </p>
 
 
