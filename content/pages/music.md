@@ -16,7 +16,7 @@ draft = false
 
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: right;">
    
   <h4><a href="https://embed.tidal.com/tracks/294404537?layout=gridify" target="_blank">Avalum Naanum</a></h4>
   <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" target="_blank">Idhu Naal</a></h4>
