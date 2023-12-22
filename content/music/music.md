@@ -1,6 +1,6 @@
 +++
 title = "Music & Podcasts"
-path = "music"
+
 draft = false
 
 [taxonomies]
