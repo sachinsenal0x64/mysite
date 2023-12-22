@@ -4,8 +4,6 @@ description = "Listening is make your feel better & more productive especially w
 sort_by = "date"
 draft = false
 
-[taxonomies]
-tags = ["Listening","Music","Podcast"]
 [extra]
 toc = true
 series = "Listening"
