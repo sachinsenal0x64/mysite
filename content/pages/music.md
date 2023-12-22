@@ -30,6 +30,7 @@ draft = false
       width: 100%;
       max-width: 300px;
       height: 90px;
+      opacity: 0;
     }
   </style>
 </head>
