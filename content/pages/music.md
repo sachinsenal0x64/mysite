@@ -11,15 +11,13 @@ draft = false
 <br>
 
 Music i'm currently listening to
-
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
 - [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
 - [Rasaali](https://embed.tidal.com/tracks/294404536?layout=gridify)
 - [Small Things](https://embed.tidal.com/tracks/138790325?layout=gridify)
 - [Shake It Off](https://embed.tidal.com/tracks/323856446?layout=gridify)
-
+  
 <br>
-
 Podcast's i'm currently listening to.
 
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
