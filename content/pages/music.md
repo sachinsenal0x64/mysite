@@ -5,11 +5,6 @@ path = "music"
 template = "pages.html"
 draft = false
 
-[extra]
-
-keywords = "Music,Podcast"
-series = "Listening"
-
 +++
 
 <center><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/picx-images-hosting@master/music-pepe.3qfwzp39mn0g.gif" alt="Pepe music image" height="250px" width="250px"/></center>
