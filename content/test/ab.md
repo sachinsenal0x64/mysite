@@ -6,7 +6,7 @@ updated = 2023-07-21
 draft = false
 
 [taxonomies]
-tags = ["Features","Config"]
+tags = ["Features","Config","Test"]
 [extra]
 toc = true
 series = "Features"
