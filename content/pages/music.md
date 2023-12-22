@@ -26,7 +26,7 @@ draft = false
     .right {
       float: right;
     }
-    .h4 {
+    h4 {
       max-width: 300px;
       opacity: 0;
       }
