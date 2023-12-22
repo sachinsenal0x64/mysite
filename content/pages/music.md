@@ -21,3 +21,13 @@ Music i'm currently listening to.
  
 </p>
 
+Podcast's i'm currently listening to.
+
+<p>
+
+  <a href="https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108" target="_blank">The Astrology Podcast</a><br>
+  <a href="https://podcasts.apple.com/lk/podcast/x-raid-podcast/id1495636866" target="_blank">X-Raid Podcast</a><br> 
+
+ 
+</p>
+
