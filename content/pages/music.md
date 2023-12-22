@@ -3,7 +3,12 @@ title = "Music"
 path = "music"
 template = "pages.html"
 draft = false
-toc= true
+[taxonomies]
+tags = ["Music","Podcast"]
+[extra]
+keywords = "Music,Podcast"
+toc = true
+series = "Listen"
 +++
 
 
