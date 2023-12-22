@@ -11,7 +11,7 @@ draft = false
 
 <br>
 
-<p>Music i'm currently listening to.</p>
+Music i'm currently listening to.
 
 <div style="text-align: left;">
    
