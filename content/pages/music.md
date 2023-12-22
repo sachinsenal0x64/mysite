@@ -1,13 +1,9 @@
 +++
 title = "Music & Podcasts"
 description = "Listening is make your feel better & more productive especially when it's come to music & podcasts."
-draft = false
 path = "music"
 template = "pages.html"
-
-[taxonomies]
-tags = ["Music","Podcast"]
-
+draft = false
 +++
 
 <center><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/picx-images-hosting@master/music-pepe.3qfwzp39mn0g.gif" alt="Pepe music image" height="250px" width="250px"/></center>
