@@ -29,8 +29,8 @@ draft = false
     embed {
       max-width: 300px;
       opacity: 0;
-      
-    }
+      }
+    
   </style>
 </head>
 <body>
