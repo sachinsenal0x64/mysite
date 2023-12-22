@@ -15,23 +15,35 @@ draft = false
 ##### <p>Music i'm currently listening to.</p>
 
 <br>
+<head>
+  <style>
+    .container {
+      text-align: center;
+    }
+    .left {
+      float: left;
+    }
+    .right {
+      float: right;
+    }
+    embed {
+      width: 100%;
+      max-width: 300px;
+      height: 90px;
+      opacity: 0;
+    }
+  </style>
+</head>
+<body>
 
-<div style="text-align: center;">
-  
-  <span style="float:left;">
+<div class="container">
+  <span class="left">
+    <embed src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+  </span>
 
-   <iframe title="music" src="https://embed.tidal.com/tracks/294404537?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
-   
-   <iframe  title="music" src="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
-
-
- </span>
-
- <span style="float:right;">
-       
-  <iframe title="music" src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
-  <iframe title="music" src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" frameborder="0" style="width: 100%; max-width: 300px; height: 90px;opacity: 0;"onload="this.style.opacity = 1;"></iframe>
-
-</span>
-
+  <span class="right">
+    <embed src="https://embed.tidal.com/tracks/294404535?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+    <embed src="https://embed.tidal.com/tracks/138790325?disableAnalytics=true" type="audio/mpeg" width="100%" height="90" onload="this.style.opacity = 1;">
+  </span>
 </div>
