@@ -2,8 +2,8 @@
 
 title = "Music & Podcasts"
 description = "Listening is make your feel better & more productive especially when it's come to music & podcasts."
+template = "music.html"
 draft = false
-
 +++
 
 <center><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/picx-images-hosting@master/music-pepe.3qfwzp39mn0g.gif" alt="Pepe music image" height="150px" width="150px"/></center>
