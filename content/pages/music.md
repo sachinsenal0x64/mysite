@@ -7,6 +7,7 @@ template = "pages.html"
 
 [taxonomies]
 tags = ["Music","Podcast"]
+
 [extra]
 keywords = "Music,Podcast"
 toc = true
