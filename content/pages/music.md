@@ -15,27 +15,8 @@ draft = false
 ##### <p>Music i'm currently listening to.</p>
 
 <br>
-<head>
-  <style>
-    .container {
-      text-align: center;
-    }
-    .left {
-      float: left;
-    }
-    .right {
-      float: right;
-    }
-    h4 {
-      max-width: 300px;
-      opacity: 0;
-      }
-    
-  </style>
-</head>
-<body>
 
-<div class="container">
+<div text-align="center">
   <span class="left">
     <h4><a href="https://embed.tidal.com/tracks/294404537?disableAnalytics=true">Avalum Naanum</a></h4>
     <h4><a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true">Idhu Naal</a></h4>
