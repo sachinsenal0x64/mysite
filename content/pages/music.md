@@ -14,7 +14,7 @@ draft = false
 Music i'm currently listening to.
 
 <p>
-  <a href="https://embed.tidal.com/tracks/294404537?layout=gridify" target="_blank">Avalum Naanum</a><br>
+  <a href="https://embed.tidal.com/tracks/294404537?layout=gridify" target="_blank">Avalum Naanum</a><br> 
   <a href="https://embed.tidal.com/tracks/294404536?disableAnalytics=true" target="_blank">Idhu Naal</a><br>
   <a href="https://embed.tidal.com/tracks/294404535?layout=gridify" target="_blank">Rasaali</a><br>
   <a href="https://embed.tidal.com/tracks/138790325?layout=gridify" target="_blank">Small Things</a><br>
