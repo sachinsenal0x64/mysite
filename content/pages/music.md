@@ -2,6 +2,8 @@
 title = "Music & Podcasts"
 description = "Listening is make your feel better & more productive especially when it's come to music & podcasts."
 draft = false
+path = "music"
+template = "pages.html"
 
 [taxonomies]
 tags = ["Music","Podcast"]
