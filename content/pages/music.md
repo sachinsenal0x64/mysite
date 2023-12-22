@@ -9,6 +9,10 @@ draft = false
   <img src="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif" alt="pepe-music" height="250px" width="250px" />
 </p>
 
+```rs
+{{/* gif(sources="https://sachinsenal0x64.github.io/picx-images-hosting/music-pepe.3qfwzp39mn0g.gif") */}}
+```
+
 <br>
 
 Music i'm currently listening to.
