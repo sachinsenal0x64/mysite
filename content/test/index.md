@@ -1,5 +1,5 @@
 +++
-title = "Abridge Zola Theme"
+title = "Abrid Theme"
 description = "Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS."
 sort_by = "date"
 date = 2023-12-17
