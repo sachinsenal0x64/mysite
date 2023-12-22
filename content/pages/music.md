@@ -10,7 +10,7 @@ draft = false
 
 <br>
 
-Music i'm currently listening to
+Music i'm currently listening to.
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
 - [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
 - [Rasaali](https://embed.tidal.com/tracks/294404536?layout=gridify)
