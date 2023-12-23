@@ -4,11 +4,7 @@ path = "about"
 template = "pages.html"
 draft = false
 +++
+<br>
+## 👤 Who I Am
 
-This site provides a demo for the [abridge theme](https://github.com/Jieiku/abridge) for [Zola](https://www.getzola.org/) the static site generator.
-
-Abridge was created by [Jake G (jieiku)](https://github.com/Jieiku) to be fast and lightweight, using semantic html, a class-light [abridge.css](https://github.com/Jieiku/abridge.css), and No Mandatory JS.
-
-Nearly half of the existing Zola MIT themes were inspiration for features and design of this theme.
-
-Abridge is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+I'm a passionate open-source backend developer, obsessed with cloud computing. In short, I attended university but ended up resigning, as it proved utterly worthless for me. I've taken numerous online classes and obtained ICCA cloud [certification](https://certs.ine.com/7bb6bdb9-d509-4ab9-a46a-0143271d89b6) from ine.com. Additionally, I've learned a lot from open source and have been self-learning for a significant amount of time 📖. I created FIXARR because I couldn't find any free Movie & TV renamer when I searched for one. Most available options were paid, and some open-source tools weren't functioning properly. Hence, I felt compelled to create a free and open-source solution.
