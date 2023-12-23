@@ -14,13 +14,13 @@ series = "Features"
 
 This article shows various Code Blocks allowing to easily compare sublime themes.
 <!-- more -->
-# Code Blocks
+## Code Blocks
 
 Code blocks.. ❤️ with automatic syntax highlighting ✨‍
 
 See [the docs](https://www.getzola.org/documentation/content/syntax-highlighting/) for options.
 
-### Inline Code block
+## Inline Code block
 
 If we want, we can also `specify inline code` which is useful for `the small stuff`.
 
