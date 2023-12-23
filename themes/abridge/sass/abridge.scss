@@ -476,8 +476,9 @@ $syntax: true !default;//syntax highlighting for code blocks
   }
   a:hover {
     color: var(--a2);
-    
+    opacity: .75;
     text-decoration: underline;
+    
   }
   a:visited {
     color: var(--a4);
