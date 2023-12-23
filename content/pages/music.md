@@ -5,7 +5,8 @@ path = "music"
 template = "pages.html"
 draft = false
 +++
-<a href="https://ibb.co/GkGvrY3"><img src="https://i.ibb.co/GkGvrY3/pepe-listening-to-music.gif" alt="pepe-listening-to-music" border="0"></a>
+<center><img src="https://i.ibb.co/GkGvrY3/pepe-listening-to-music.gif" alt="Pepe music image" height="150px" width="150px"/></center>
+
 
 <br>
 
