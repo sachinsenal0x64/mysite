@@ -14,7 +14,7 @@ series = "Features"
 
 This article shows various Code Blocks allowing to easily compare sublime themes.
 <!-- more -->
-## Code Blocks
+# Code Blocks
 
 Code blocks.. ❤️ with automatic syntax highlighting ✨‍
 
