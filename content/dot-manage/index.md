@@ -14,7 +14,7 @@ series = "Dots"
 
 This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows if basic HTML elements are decorated with CSS in a Zola theme.
 <!-- more -->
-# Headings
+## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section
 headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -26,7 +26,7 @@ headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 ##### H5
 ###### H6
 
-# Paragraph
+## Paragraph
 
 Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum,
 voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma
