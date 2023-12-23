@@ -5,7 +5,7 @@ path = "music"
 template = "pages.html"
 draft = false
 +++
-<center><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Music image" width="1280" height="720"/></center>
+<center><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Music image" width="720" height="1280"/></center>
 
 <br>
 
