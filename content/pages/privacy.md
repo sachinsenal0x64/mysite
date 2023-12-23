@@ -5,6 +5,11 @@ path = "privacy"
 template = "pages.html"
 draft = false
 +++
+<br>
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/privacy" target="_blank" aria-label="Minimalism"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/istockphoto-834312040-640x640.28egq67xvsg0.webp" alt="Privacy Terms" style="visibility: hidden;" onload="this.style.visibility = 'visible'; this.style.opacity = 1;"/></a>
+</div>
+<br>
 
 ## Privacy
 
