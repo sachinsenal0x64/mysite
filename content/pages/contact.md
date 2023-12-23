@@ -21,4 +21,4 @@ I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on
 
 2: Don’t contact me about gossip or e-soyleb stuff (especially if it’s about me). This includes all “journalists.”<br>
 
-3: Don’t contact me asking me to shill your product unless it is all free software and you have some comprehension of the themes of my channel. It should go without saying that we’re not consoomers here.
+3: Don’t contact me asking me to shill your product unless it is all free & opensource software.
