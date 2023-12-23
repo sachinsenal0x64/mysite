@@ -9,7 +9,7 @@ draft = false
 <br>
 
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Pepe_the_Frog" target="_blank" aria-label="Minimalism"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/20557586(1).1k0ybnf2tu2o.webp" alt="Pepe the Frog" style="visibility: hidden;" onload="this.style.visibility = 'visible'; this.style.opacity = 1;"/></a>
+<a href="https://sachinsenal0x64.github.io/picx-images-hosting/20557586(1)(1).2shhhmiypao0.webp" target="_blank" aria-label="Minimalism"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/20557586(1).1k0ybnf2tu2o.webp" alt="Pepe the Frog" style="visibility: hidden;" onload="this.style.visibility = 'visible'; this.style.opacity = 1;"/></a>
 </div>
 <br>
 
