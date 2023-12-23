@@ -12,6 +12,6 @@ draft = false
 - This site does not store data in the browser to be shared, sent, or sold to third-parties.
 - No personal information is shared, sent, or sold to third-parties.
 - This site never ever gonna track you.
-- No ads no any shits.
+- No ads so no any shits.
 
 **Effective Date:** _23rd Dec 2023_
