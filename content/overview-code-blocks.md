@@ -8,6 +8,7 @@ draft = false
 tags = ["Features","Markdown"]
 [extra]
 keywords = "Code, Code Blocks, Syntax, Syntax Highlighting, Theme"
+readtime = true
 toc = true
 series = "Features"
 +++
