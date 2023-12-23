@@ -1025,6 +1025,12 @@ $syntax: true !default;//syntax highlighting for code blocks
   [type="reset" i]:hover {
     opacity: .75;
   }
+  button[disabled],
+  [type="button" i][disabled],
+  [type="submit" i][disabled],
+  [type="reset" i][disabled] {
+    opacity: .5;
+  }
 }
 @if $form {
   fieldset {
