@@ -6,7 +6,7 @@ draft = false
 +++
 <br>
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Diogenes" target="_blank"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Diogenes livin inside the barrel" /></a> 
+<a href="https://en.wikipedia.org/wiki/Diogenes" target="_blank"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Diogenes livin in a barrel" /></a> 
 </div>
 <br>
 
