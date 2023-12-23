@@ -13,4 +13,4 @@ I'm a passionate open-source backend developer, obsessed with cloud computing. I
 <br>
 
 - Github : [sachinsenal0x64](https://github.com/sachinsenal0x64)
-- Resume : [resume](https://index.401658.xyz/api/raw/?path=/Sachin-Senal-Resume-V3.pdf)
+- Resume : [resume](https://index.401658.xyz/Sachin-Senal-Resume-V3.pdf)
