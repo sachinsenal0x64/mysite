@@ -4,9 +4,6 @@ description = "Listening is make your feel better & more productive especially w
 path = "music"
 template = "pages.html"
 draft = false
-
-[extra]
-toc = true
 +++
 
 Music i'm currently listening to.
