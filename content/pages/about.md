@@ -6,7 +6,7 @@ draft = false
 +++
 <br>
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Diogenes" target="_blank" aria-label="Minimalism"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Diogenes livin in a barrel" width="480" height="252" style="visibility:hidden";onload="this.style.visibility = 'visible'; this.style.opacity = 1;"/></a> 
+<a href="https://en.wikipedia.org/wiki/Diogenes" target="_blank" aria-label="Minimalism"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" alt="Diogenes livin in a barrel" width="480" height="252" style="visibility: hidden;" onload="this.style.visibility = 'visible'; this.style.opacity = 1;"/></a>
 </div>
 <br>
 
