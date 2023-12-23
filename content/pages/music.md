@@ -5,7 +5,6 @@ path = "music"
 template = "pages.html"
 draft = false
 +++
-
 <br>
 
 Music i'm currently listening to.
