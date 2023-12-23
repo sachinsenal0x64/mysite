@@ -6,10 +6,6 @@ template = "pages.html"
 draft = false
 +++
 
-<center><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/picx-images-hosting@master/music-pepe.3qfwzp39mn0g.gif" alt="Pepe music image" height="150px" width="150px"/></center>
-
-<br>
-
 Music i'm currently listening to.
 
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
