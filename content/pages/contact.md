@@ -17,7 +17,7 @@ I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on
 ## <center>Rules</center>
 
 
-1: Don’t get offended if you don’t get a response. I get a lot of email. I can’t do pen pals.<br>
+1: Don’t get offended if you don’t get a response.<br>
 
 2: Don’t contact me about gossip or e-soyleb stuff (especially if it’s about me). This includes all “journalists.”<br>
 
