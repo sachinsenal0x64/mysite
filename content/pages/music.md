@@ -7,7 +7,7 @@ draft = false
 +++
 
 <br>
-<center><img src="https://index.401658.xyz/api/raw/?path=/music-pepe.gif" alt="Pepe music image" height="150px" width="150px"/></center>
+<center><img src="https://759a7a14-5202-4d05-b80d-f50592b7ca4a.ssssssssssssssssssss.repl.co/d/AWS3/music-pepe.gif" alt="Pepe music image" height="150px" width="150px"/></center>
 <br>
 
 Music i'm currently listening to.
