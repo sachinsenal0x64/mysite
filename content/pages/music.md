@@ -5,7 +5,7 @@ path = "music"
 template = "pages.html"
 draft = false
 +++
-<center><img src="https://i.ibb.co/GkGvrY3/pepe-listening-to-music.gif" alt="Pepe music image" height="150px" width="150px"/></center>
+<center><img src="https://s13.gifyu.com/images/SjNT4.gif" alt="Pepe music image" height="150px" width="150px"/></center>
 
 
 <br>
