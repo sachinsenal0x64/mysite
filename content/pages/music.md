@@ -6,7 +6,7 @@ template = "pages.html"
 draft = false
 +++
 <br>
-Music i'm currently listening to.
+##### Music i'm currently listening to.
 
 - [Avalum Naanum](https://embed.tidal.com/tracks/294404537?layout=gridify)
 - [Idhu Naal](https://embed.tidal.com/tracks/294404535?layout=gridify)
@@ -15,7 +15,8 @@ Music i'm currently listening to.
 - [Shake It Off](https://embed.tidal.com/tracks/323856446?layout=gridify)
   
 <br>
-Podcast's i'm currently listening to.
+
+##### Podcast's i'm currently listening to.
 
 - [Very Bad Wizards](https://podcasts.apple.com/gb/podcast/very-bad-wizards/id557975157)
 - [The Astrology Podcast](https://podcasts.apple.com/us/podcast/the-astrology-podcast/id541401108)
