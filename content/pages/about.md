@@ -18,5 +18,5 @@ I'm a privately passionate open-source backend developer, obsessed with cloud co
 
 - Github : [sachinsenal0x64](https://github.com/sachinsenal0x64)
 - Resume : [resume](https://index.401658.xyz/Sachin-Senal-Resume-V3.pdf)
-- Donate : [Github Sponser](https://github.com/sponsors/sachinsenal0x64)
+- Donate : [sponser](https://github.com/sponsors/sachinsenal0x64)
 
