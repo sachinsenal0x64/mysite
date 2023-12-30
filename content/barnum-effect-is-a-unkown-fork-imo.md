@@ -22,6 +22,8 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 - "Barnum Effect: isa person's natural tendency to think that a generic or vague personality description applies specifically to themselves."
 
+<br>
+
 - "Actual Good Effect: So I useLevenshtein Distancewhich works the same as the barnum effect, but mathematically. The algorithm uses the input to determine the similarity between strings, so I use Python. It's like Python on the computer, and it's against doing this, so it will make for an accurate renaming process, especially when we deal with TV series renaming. It has the same concept: use the barnum effect, but all goes well at the end of the day. You save a bunch of time using this tool and those concepts."
 
 <br>
