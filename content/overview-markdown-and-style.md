@@ -13,17 +13,24 @@ series = "Features"
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows if basic HTML elements are decorated with CSS in a Zola theme.
+
 <!-- more -->
+
 # Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section
 headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 # Paragraph
@@ -51,7 +58,7 @@ and optionally with in-line changes such as annotations and abbreviations.
 ## Blockquote no attribution
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+> **Note** that you can use _Markdown syntax_ within a blockquote.
 
 ## Blockquote attribution
 
@@ -62,36 +69,36 @@ and optionally with in-line changes such as annotations and abbreviations.
 > ― <cite>Aristotle[^2]</cite>
 
 > Power comes in response to a need, not a desire.<br>
-> — *Goku*
+> — _Goku_
 
 # Tables
 
 Tables aren't part of the core Markdown spec, but Zola supports them
 out-of-the-box.
 
-   Name | Age
---------|------
-  Alice | 23
-    Bob | 27
-   Cody | 33
-   John | 59
-  Kerry | 23
+| Name  | Age |
+| ----- | --- |
+| Alice | 23  |
+| Bob   | 27  |
+| Cody  | 33  |
+| John  | 59  |
+| Kerry | 23  |
 
 ## Table Inline Markdown
 
 | Italics   | Bold     | Code   | StrikeThrough     |
-| --------  | -------- | ------ | ----------------- |
-| *italics* | **bold** | `code` | ~~strikethrough~~ |
-
+| --------- | -------- | ------ | ----------------- |
+| _italics_ | **bold** | `code` | ~~strikethrough~~ |
 
 ## Large table within figure
 
 Surround very Large tables with `<figure></figure>` so they can scroll horizontally.
+
 <figure>
 
-| **Manufacturer** | Volkswagen | Toyota | Ford | Honda | Chevrolet | BMW | Hyundai | Audi | Nissan | Kia | Mercedes | Tesla | Mitsubishi | Suzuki | Volvo | Subaru | Mazda | Jaguar | Buick | Lexus | GMC | Porsche | Cadillac |
-| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Revenue $B** | $254 | $249 | $127 | $124 | $123 | $113 | $88 | $83 | $74 | $61 | $55 | $54 | $38 | $31 | $30 | $28 | $27 | $22 | $21 | $19 | $17 | $16 | $12 |
+| **Manufacturer** | Volkswagen | Toyota | Ford | Honda | Chevrolet | BMW  | Hyundai | Audi | Nissan | Kia | Mercedes | Tesla | Mitsubishi | Suzuki | Volvo | Subaru | Mazda | Jaguar | Buick | Lexus | GMC | Porsche | Cadillac |
+| ---------------- | ---------- | ------ | ---- | ----- | --------- | ---- | ------- | ---- | ------ | --- | -------- | ----- | ---------- | ------ | ----- | ------ | ----- | ------ | ----- | ----- | --- | ------- | -------- |
+| **Revenue $B**   | $254       | $249   | $127 | $124  | $123      | $113 | $88     | $83  | $74    | $61 | $55      | $54   | $38        | $31    | $30   | $28    | $27   | $22    | $21   | $19   | $17 | $16     | $12      |
 
 </figure>
 *revenue values found on search engine and not verified, for figure scroller table demonstration purposes only.*
@@ -119,13 +126,13 @@ See [the docs](https://www.getzola.org/documentation/content/syntax-highlighting
 ```html
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <title>Example HTML5 Document</title>
+  </head>
+  <body>
+    <p>Test</p>
+  </body>
 </html>
 ```
 
@@ -187,11 +194,14 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and
 other small creatures.
 
 ---
-<!-- Note: There must be a blank line between every two lines of the footnote definition.  -->
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c)
-during Gopherfest, November 18, 2015.
 
-[^2]: The quote is the first sentence of Aristotle's [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)).
+<!-- Note: There must be a blank line between every two lines of the footnote definition.  -->
+
+[^1]:
+    The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+    during Gopherfest, November 18, 2015.
+
+[^2]: The quote is the first sentence of Aristotle's [Metaphysics](<https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)>).
 
 ## Navs
 
