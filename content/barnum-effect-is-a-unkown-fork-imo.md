@@ -1,4 +1,5 @@
 +++
+
 title = "Barnum Effect Is a Unknown Fork In My Opinion"
 description = "Changing the Burnum Effect Point of View Using Logics / Computing / Mathematics / Philosophy"
 date = 2023-12-30
