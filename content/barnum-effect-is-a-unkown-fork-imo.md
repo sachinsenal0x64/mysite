@@ -1,5 +1,5 @@
 +++
-title = "Barnum Effect is a Unknown Fork In My Opinion"
+title = "Barnum Effect Is a Unknown Fork In My Opinion"
 description = "Changing the Burnum Effect Point of View Using Logics / Computing / Mathematics / Philosophy"
 date = 2023-12-30
 draft = false
@@ -20,11 +20,11 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-- "Barnum Effect: isa person's natural tendency to think that a generic or vague personality description applies specifically to themselves."
+- " Barnum Effect: isa person's natural tendency to think that a generic or vague personality description applies specifically to themselves. "
 
 <br>
 
-- "Actual Good Effect: So I useLevenshtein Distancewhich works the same as the barnum effect, but mathematically. The algorithm uses the input to determine the similarity between strings, so I use Python. It's like Python on the computer, and it's against doing this, so it will make for an accurate renaming process, especially when we deal with TV series renaming. It has the same concept: use the barnum effect, but all goes well at the end of the day. You save a bunch of time using this tool and those concepts."
+- " Actual Good Effect: So I use ![Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) which works the same as the barnum effect, but mathematically. The algorithm uses the input to determine the similarity between strings, so I use Python. It's like Python on the computer, and it's against doing this, so it will make for an accurate renaming process, especially when we deal with TV series renaming. It has the same concept: use the barnum effect, but all goes well at the end of the day. You save a bunch of time using this tool and those concepts. "
 
 <br>
 
