@@ -33,4 +33,4 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-You can see its which i use Levenshtein Distance algorithm concept to (think like astrology ) . Against computer to do this effect, so computers act like barnum effect (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
+You can see its which i use Levenshtein Distance algorithm concept to (think like astrology ) . Against computer to do this effect (Two Different String Matching), so computers act like barnum effect (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
