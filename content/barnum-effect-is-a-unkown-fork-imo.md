@@ -11,7 +11,6 @@ tags = ["Philosophy"]
 keywords = "Philosophy,Mathematics,Burnum Effect,Computing,Logics"
 toc = true
 series = "Philosophy"
-
 +++
 
 <br>
