@@ -29,4 +29,6 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 ![code](https://sachinsenal0x64.github.io/picx-images-hosting/2023-12-30_11-03.1qw72qfjbfuo.webp)
 
 
+<br>
+
 You can see its which i use Levenshtein Distance algorithm concept to (think like astrology ) . Against computer to do this effect, so computers act like barnum effect (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
