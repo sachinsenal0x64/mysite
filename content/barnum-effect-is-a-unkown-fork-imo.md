@@ -26,7 +26,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-- "Actual Good Effect: So I use ![Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) which works the same as the barnum effect, but mathematically. The algorithm uses the input to determine the similarity between strings, so I use Python. It's like Python on the computer, and it's against doing this, so it will make for an accurate renaming process, especially when we deal with TV series renaming. It has the same concept: use the barnum effect, but all goes well at the end of the day. You save a bunch of time using those phycology concepts. "
+- "Actual Good Effect: So I use ![Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) which works the same as the barnum effect, but programmatically / mathematically. The algorithm uses to determine the similarity between multiple strings, so i use python as a programming language. whole process like python tell to the computer what its have to do, so computer follow the logic and its complete this task, so it will make for an accurate renaming process, especially when we deal with TV series renaming. It has the same concept: use the barnum effect, but all goes well at the end of the day. You save a bunch of time using those phycology concepts. "
 
 <br>
 
