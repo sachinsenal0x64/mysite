@@ -1,6 +1,6 @@
 +++
 title = "Barnum Effect Is a Unknown Fork In My Opinion"
-description = "Changing the barnum effect point of the view using Logics / Computing / Mathematics / Philosophy"
+description = "Changing the barnum effect point of view using Logics / Computing / Mathematics / Philosophy"
 date = 2023-12-30
 draft = false
 
