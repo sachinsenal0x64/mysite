@@ -36,7 +36,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 <br>
 
 > **Code Example :**
-> Hey nerds i know this can program in different way without using levenshtein distance but its not related to this topic
+> Hey nerds i know this can program in different way without using levenshtein distance but its not related to this topic.
 
 
 ```python
