@@ -24,8 +24,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 > **Barnum Effect.**
 
-- There's a peoples natural tendency to think that a generic or vague personality description applies specifically to themselves.
-
+- There is a natural tendency for people to think that a generic or vague personality description applies specifically to themselves.
 
 <br>
 
