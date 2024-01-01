@@ -31,7 +31,41 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
   
 <br>
 
-![code](https://sachinsenal0x64.github.io/picx-images-hosting/2023-12-30_11-03.1qw72qfjbfuo.webp)
+> Code Example
+
+```py
+# Now, fetch information about episodes for each season
+episode_url = f"https://api.themoviedb.org/3/tv/{tv_show_id}/season/{season['season_number']}?api_key={tmdb}"
+episode_response = requests.get(episode_url)
+episode_data = episode_response.json()
+rich.print("Episodes:")
+
+for episode_i in episode_data["episodes"]:
+    episode_number = episode_i["episode_number"]
+    ep_n = episode_i["name"]
+    print(episode_number)
+
+    # Calculate similarity_ratio using fuzzywuzzy
+    similarity_ratio = fuzz.ratio(str(episode), str(episode_number))
+
+    if similarity_ratio > max_similarity_ratio:
+        max_similarity_ratio = similarity_ratio
+        episode_name = ep_n
+        episode = episode_number
+
+    print(
+        "Similarity Ratio:",
+        similarity_ratio,
+        "BASE_NAME:",
+        base_name,
+        "API_ONE:",
+        episode_name,
+    )
+
+    new_file_name = f"{t_name} - S{season['season_number']:02d}E{episode:02d} - {episode_name} ({t_date}){ext}"
+    rich.print(new_file_name)
+
+```
 
 
 <br>
