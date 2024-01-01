@@ -1,5 +1,5 @@
 +++
-title = "Barnum Effect Is a Unknown Fork In My Opinion"
+title = "Barnum effect is a unknown fork in my opinion"
 description = "Changing the barnum effect point of view using Logics / Computing / Mathematics / Philosophy"
 date = 2023-12-30
 draft = false
