@@ -6,7 +6,6 @@ draft = false
 
 [taxonomies]
 tags = ["Features","Markdown"]
-
 [extra]
 keywords = "Code, Code Blocks, Syntax, Syntax Highlighting, Theme"
 toc = true
@@ -21,7 +20,7 @@ Code blocks.. ❤️ with automatic syntax highlighting ✨‍
 
 See [the docs](https://www.getzola.org/documentation/content/syntax-highlighting/) for options.
 
-## Inline Code block
+### Inline Code block
 
 If we want, we can also `specify inline code` which is useful for `the small stuff`.
 
@@ -67,17 +66,6 @@ fn main() {
     }
 }
 ```
-
-### Elixir
-
-```ex
-import IO, only: [puts: 1]
-
-puts("Hello, World!")
-
-```
-
-
 
 ### Bash
 ```bash
