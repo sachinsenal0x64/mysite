@@ -35,6 +35,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 ```py
 # Now, fetch information about episodes for each season
+
 episode_url = f"https://api.themoviedb.org/3/tv/{tv_show_id}/season/{season['season_number']}?api_key={tmdb}"
 episode_response = requests.get(episode_url)
 episode_data = episode_response.json()
