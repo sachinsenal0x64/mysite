@@ -46,7 +46,7 @@ for episode_i in episode_data["episodes"]:
     ep_n = episode_i["name"]
     print(episode_number)
 
-    # Calculate similarity_ratio using fuzzywuzzy
+    # Calculate similarity_ratio using levenshtein distance 
     similarity_ratio = fuzz.ratio(str(episode), str(episode_number))
 
     if similarity_ratio > max_similarity_ratio:
