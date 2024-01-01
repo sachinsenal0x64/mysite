@@ -75,4 +75,4 @@ for episode_i in episode_data["episodes"]:
 
 ```
 
-You can see its which i use Levenshtein Distance algorithm concept to ( Think like astrological lessons ) . Against computer to do this effect (Two Different String Matching), so computers act like barnum effect (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
+You can see its which i use Levenshtein Distance algorithm concept to ( Think like astrological lessons ) . Against computer to do this effect (Two Different String Matching), for example computers act like barnum effected object (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
