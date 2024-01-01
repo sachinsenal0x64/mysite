@@ -19,11 +19,11 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-<br>
 
 > Barnum Effect
   
 - "Is a person's natural tendency to think that a generic or vague personality description applies specifically to themselves."
+
 
 <br>
 
@@ -35,6 +35,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 <br>
 
 > Code Example
+
 
 ```py
 
@@ -71,8 +72,5 @@ for episode_i in episode_data["episodes"]:
     rich.print(new_file_name)
 
 ```
-
-
-<br>
 
 You can see its which i use Levenshtein Distance algorithm concept to ( Think like astrological lessons ) . Against computer to do this effect (Two Different String Matching), so computers act like barnum effect (which applies specifically to themselves) and its all for good ) finally my goal was you to think in different way nothing more thanks have a nice day.
