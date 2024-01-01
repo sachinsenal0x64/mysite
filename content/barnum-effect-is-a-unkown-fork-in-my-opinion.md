@@ -2,6 +2,7 @@
 title = "Barnum effect is a unknown fork in my opinion"
 description = "Changing the barnum effect point of view using Logics / Computing / Mathematics / Philosophy"
 date = 2023-12-30
+updated = 2024-01-01
 draft = false
 
 [taxonomies]
@@ -28,12 +29,12 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 - "Real Positive Impact: I utilize it programmatically! The [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) is a algorithm its can be work same as barnum effect. i choose python as my programming language since the algorithm uses it to compare the similarity of several strings (local file names for TV series) with an API to extract the right series titles, year, etc. Thus, the entire procedure involves using Python against the computer to do this operation, which will result in an accurate renaming process especially when dealing with the renaming of TV series. The idea is the same apply the barnum effect but everything works out in the end. By applying those phycology principals, you save a ton of time. so thats what astrology try to teach us. so the only limitation in here is the way you think."
 
-  
 <br>
 
 > Code Example
 
 ```py
+
 # Now, fetch information about episodes for each season
 
 episode_url = f"https://api.themoviedb.org/3/tv/{tv_show_id}/season/{season['season_number']}?api_key={tmdb}"
