@@ -29,14 +29,14 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-> **Real Positive Impact** 
+> **Real Positive Impact.** 
 
 - I utilize it programmatically! The [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) is a algorithm its can be work same as barnum effect. i choose python as my programming language since the algorithm uses it to compare the similarity of several strings (local file names for TV series) with an API to extract the right series titles, year, etc. Thus, the entire procedure involves using Python against the computer to do this operation, which will result in an accurate renaming process especially when dealing with the renaming of TV series. The idea is the same apply the barnum effect but everything works out in the end. By applying those phycology principals, you save a ton of time. so thats what astrology try to teach us. so the only limitation in here is the way you think.
 
 
 <br>
 
-> **Code Example:**
+> **Code Example :**
 > Hey nerds i know this can program in different way without using levenshtein distance but its not related to this topic
 
 
