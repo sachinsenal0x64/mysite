@@ -8,7 +8,7 @@ draft = false
 
 <div align="center">
   
-  [![Diogenes livin in a barrel](https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp)](https://en.wikipedia.org/wiki/Diogenes)
+  [![Diogenes livin in a barrel](https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.1i0vlm96kf4w.webp)](https://en.wikipedia.org/wiki/Diogenes)
   
 </div>
 
