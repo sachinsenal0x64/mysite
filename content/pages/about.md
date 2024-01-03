@@ -5,13 +5,10 @@ template = "pages.html"
 draft = false
 +++
 <br>
-
-<div align="center">
-  
+<div align="center"> 
   [![Diogenes livin in a barrel](https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.1i0vlm96kf4w.webp)](https://en.wikipedia.org/wiki/Diogenes)
   
 </div>
-
 <br>
 
 ## 👤 Who I Am
