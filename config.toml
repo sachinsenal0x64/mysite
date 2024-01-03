@@ -1,5 +1,5 @@
 # do NOT include a trailing slash on the base URL
-base_url = "https://mysite-2yk.pages.dev"
+base_url = "https://www.401658.xyz"
 # Usable site directly from disk, Including Search: "/home/jieiku/.dev/abridge/public"
 # Also set index format = "elasticlunr_javascript", and in [extra] uglyurls = true, integrity = false
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
