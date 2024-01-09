@@ -16,7 +16,7 @@ series = "Philosophy"
 
 <br>
 
-> #### The docs (markdown files yeah its also open source) are [here](https://github.com/sachinsenal0x64/mysite/tree/main/content)  Feel free to send PR's regarding spelling mistakes, incorrect grammar etc.
+> **The docs (markdown files yeah its also open source) are [here](https://github.com/sachinsenal0x64/mysite/tree/main/content)  Feel free to send PR's regarding spelling mistakes, incorrect grammar etc.**
 
 <br>
 
