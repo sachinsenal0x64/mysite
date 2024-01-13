@@ -55,7 +55,6 @@ $$
           \text{lev}(\text{tail}(a), \text{tail}(b)) \\
        \end{cases} & \text{otherwise}
 \end{cases}
-
 $$
 
 <br>
