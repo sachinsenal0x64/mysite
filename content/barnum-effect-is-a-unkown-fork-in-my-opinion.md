@@ -46,7 +46,17 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 
 $$
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+\text{lev}(a, b) = 
+\begin{cases}
+  |a| & \text{if } |b| = 0 \\
+  |b| & \text{if } |a| = 0 \\
+  \text{lev}(\text{tail}(a),\text{tail}(b)) & \text{if } a[0] = b[0] \\
+  1 + \min \begin{cases}
+          \text{lev}(\text{tail}(a), b) \\
+          \text{lev}(a, \text{tail}(b)) \\
+          \text{lev}(\text{tail}(a), \text{tail}(b)) \\
+       \end{cases} & \text{otherwise}
+\end{cases}
 $$
 
 ```python
