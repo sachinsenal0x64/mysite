@@ -9,6 +9,8 @@ draft = false
 tags = ["Philosophy"]
 
 [extra]
+math = true
+math_auto_render = true
 keywords = "Philosophy,Mathematics,Barnum Effect,Computing,Logics"
 toc = true
 series = "Philosophy"
@@ -39,6 +41,13 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 <br>
 
 > **Code Example :**
+
+#### Levenshtein Distance Notation
+
+
+```rs
+{%/* katex(block=false) */%} e^{i\pi}+1=0 {%/* end */%}
+```
 
 ```python
 
