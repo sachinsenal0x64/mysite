@@ -45,9 +45,9 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 #### Levenshtein Distance Notation
 
 
-```rs
-{%/* katex(block=false) */%} e^{i\pi}+1=0 {%/* end */%}
-```
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
 
 ```python
 
