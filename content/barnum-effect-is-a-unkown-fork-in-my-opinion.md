@@ -48,13 +48,14 @@ $$
 \begin{cases}
   |a| & \text{if } |b| = 0 \\
   |b| & \text{if } |a| = 0 \\
-  \text{lev}(\text{tail}(a),\text{tail}(b)) & \text{if } a[0] = b[0] \\
+  \text{lev}(\text{tail}(a), \text{tail}(b)) & \text{if } a[0] = b[0] \\
   1 + \min \begin{cases}
           \text{lev}(\text{tail}(a), b) \\
           \text{lev}(a, \text{tail}(b)) \\
           \text{lev}(\text{tail}(a), \text{tail}(b)) \\
        \end{cases} & \text{otherwise}
 \end{cases}
+
 $$
 
 <br>
