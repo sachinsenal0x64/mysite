@@ -44,16 +44,7 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 
 $$
-\text{lev}(a, b) = \begin{cases} 
-    \text{length}(b) & \text{if } \text{length}(a) = 0 \\
-    \text{length}(a) & \text{if } \text{length}(b) = 0 \\
-    \text{lev}(\text{tail}(a), \text{tail}(b)) & \text{if } a_1 = b_1 \\
-    1 + \min \begin{cases} 
-            \text{lev}(\text{tail}(a), \text{tail}(b)) \\
-            \text{lev}(\text{tail}(a), b) \\
-            \text{lev}(a, \text{tail}(b)) 
-         \end{cases} & \text{otherwise}
-\end{cases}
+ \text{lev}(a, b) = \sum_{i=1}^{\max(|a|, |b|)} \delta(a_i \neq b_i)
 $$
 
 <br>
