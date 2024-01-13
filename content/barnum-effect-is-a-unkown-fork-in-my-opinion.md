@@ -40,8 +40,6 @@ Hey, I hope you all are doing well. So let's begin with the topic. You may have 
 
 <br>
 
-> **Code Example :**
-
 #### Levenshtein Distance Notation
 
 
@@ -58,6 +56,8 @@ $$
        \end{cases} & \text{otherwise}
 \end{cases}
 $$
+
+> **Code Example :**
 
 ```python
 
