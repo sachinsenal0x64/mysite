@@ -10,7 +10,7 @@ draft = false
 
 - [sachinsenal0x64@gmail.com](mailto:sachinsenal0x64@gmail.com)
 
-I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on Linkedin, I'm not on instagram,I don’t post on 4chan and no account anywhere imitating me or any of my “brands” has any association with me other than fraudulent. I suppose i do have a Reddit account,but i rarely use it.
+I’m not on Whatsapp, I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on Linkedin, I'm not on instagram,I don’t post on 4chan and no account anywhere imitating me or any of my “brands” has any association with me other than fraudulent. I suppose i do have a Reddit account,but i rarely use it.
 
 <br>
 
