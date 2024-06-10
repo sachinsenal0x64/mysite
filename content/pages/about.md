@@ -14,6 +14,7 @@ draft = false
 
 ## 👤 Who I Am
 
+
 A stubborn person who refuses to go with the flow.
 
 <br>
