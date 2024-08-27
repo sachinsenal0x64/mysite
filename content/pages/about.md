@@ -14,8 +14,9 @@ draft = false
 
 ## 👤 Who I Am
 
+<br>
 
-A stubborn person who refuses to go with the flow.
+A stubborn person who refuses to go with the flow. Currently, I'm working on my ongoing Green Fintech company. I hate the majority of banks, so I will start my own bank one day.
 
 <br>
 
